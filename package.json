@@ -18,9 +18,19 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01"
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Surrey",
+        "date": "2017-04-09"
+      },
+      {
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Burnaby",
+        "date": "2017-04-16"
+      },
+      {
+        "venue": "Zion Chinese Christian Reformed Church",
+        "city": "Abbotsford",
+        "date": "2017-04-23"
       }
     ],
     "slides": [ "slides/slides.md" ],
