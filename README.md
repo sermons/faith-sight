@@ -1,4 +1,4 @@
-# Faith Without Sight, 沒有看見就相信
+# Faith Without Seeing, 沒有看見就相信
 ## John 20:24-29
 
 [![Build status](https://travis-ci.org/sermons/faith-sight.svg)](https://travis-ci.org/sermons/faith-sight)
