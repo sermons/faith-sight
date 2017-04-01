@@ -5,20 +5,20 @@
 ---
 <span class="ref">24</span>
 Now **Thomas** (also known as Didymus), one of the Twelve, <br/>
-was not with the disciples when Jesus came.
+was **not** with the disciples when Jesus came.
 
 <span class="ref">25</span>
-So the other disciples told him, “We have **seen** the Lord!”
+So the **other** disciples told him, “We have **seen** the Lord!”
 
 <div class="zh">
 <span class="ref">24</span>
 那十二個門徒中， 有稱為低土馬的 **多馬** ； <br/>
-耶穌來的時候， 他沒有和他們同在。
+耶穌來的時候， 他 **沒有** 和他們同在。
 </div>
 
 <div class="zh">
 <span class="ref">25</span>
-那些門徒就對他說： 我們已經 **看見** 主了。
+那些 **門徒** 就對他說： 我們已經 **看見** 主了。
 </div>
 
 ---
