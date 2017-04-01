@@ -87,8 +87,8 @@ and yet have **believed**.”
 
 <div class="zh">
 <span class="ref">29</span>
-耶穌對他說：
-你因 **看見了** 我才 **信**；
+耶穌對他說： <br/>
+你因 **看見了** 我才 **信**； <br/>
 那 **沒有看見** 就 **信** 的有福了。
 </div>
 
