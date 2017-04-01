@@ -92,3 +92,20 @@ and yet have **believed**.”
 那 **沒有看見** 就 **信** 的有福了。
 </div>
 
+---
+## Outline
+
+---
+<span class="ref">31</span>
+These are **written** that you may believe <br/>
+that Jesus is the **Messiah**, the **Son of God**,
+
+and that by **believing** you may have **life** in his name.
+
+<div class="zh">
+<span class="ref">31</span>
+但 **記這些事** 要叫你們信 <br/>
+耶穌是 **基督**， 是 **神的兒子**， <br/>
+並且叫你們 **信了他**， <br/>
+就可以因他的名得 **生命**。
+</div>
