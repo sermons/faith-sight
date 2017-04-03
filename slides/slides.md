@@ -4,7 +4,8 @@
 
 ---
 <span class="ref">24</span>
-Now **Thomas** (also known as Didymus), one of the Twelve, <br/>
+Now **Thomas** (also known as Didymus), <br/>
+one of the Twelve, <br/>
 was **not** with the disciples when Jesus came.
 
 <span class="ref">25</span>
