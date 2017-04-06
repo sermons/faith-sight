@@ -94,7 +94,95 @@ and yet have **believed**.”
 </div>
 
 ---
-## Outline
+## Outline (rough draft)
+1. We have seen the Lord <span class="ref">(v24-25)</span>
+  1. I will not believe
+1. Jesus comes <span class="ref">(v26-27)</span>
+  1. Peace be with you
+  1. Reach out your hand
+  1. Do not be unbelieving
+1. My Lord, my God <span class="ref">(v28-29)</span>
+  1. Those who have not seen
+
+---
+
+<div class="caption">
+1 John 1:1
+</div>
+
+---
+I will not believe
+
+>>>
++ not that this is the **proof** he requires
++ but he "knows" resurrection is **impossible**
++ has **already** made up his mind
+
+---
+
+<div class="caption">
+John 11:16
+</div>
+
+>>>
++ Jews in Jerusalem had just tried to stone Jesus (Jn10:31)
++ Lazarus died of illness (Jn11:14)
++ Jesus to go to Lazarus (Jn11:15)
++ Thomas: **zealous**, willing to die for Jesus
+  + but assumed death is **the end**
+  + Jesus: Lazarus sleeping, we wake him (Jn11:11)
+
+---
+
+## 2. Jesus comes
+
+---
+Peace be with you
+
+>>>
++ Jesus' post-resurrection greeting (Jn20:19,21)
++ desires that we be at peace (w/others, w/God)
++ but only way to achieve that is through faith in Him
+
+---
+Reach out your hand
+
+>>>
++ Jesus **knows** Thomas' doubt
+  + personal **encounter**
+  + calls Thomas' **bluff**
++ **truth** does not fear **examination**
+  + true gold fears no fire
++ but root issue is not about **evidence** or proof,
+  + but condition of the **heart**:
+
+---
+Do not be unbelieving, but believing
+
+>>>
++ not **verbs** (action of belief/unbelief)
++ but what kind of **person** we are:
+  + the unbelieving person, or
+  + the believing person
+
+---
+## 3. My Lord, my God
+
+>>>
++ not just miracle of resurrection
++ but that Jesus more than just a teacher/Rabbi
++ His **claims** about Himself are true
+  + Son of God, Messiah
++ therefore, our response: my Lord
+  + authority, obedience, trust with life
+
+---
+St. Thomas in India
+
+>>>
++ After Christ ascended into heaven
++ Thomas went to India, preaching to Brahmin
++ died in E. India, speared through by a Brahmin
 
 ---
 <span class="ref">31</span>
