@@ -2,6 +2,9 @@
 # 沒有看見就相信
 ## John 20:24-29
 
+>>>
++ speaker's notes go here
+
 ---
 <span class="ref">24</span>
 Now **Thomas** (also known as Didymus), <br/>
