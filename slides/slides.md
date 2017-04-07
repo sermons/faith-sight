@@ -78,7 +78,7 @@ Thomas said to him, “**My Lord** and **my God**!”
 
 <div class="zh">
 <span class="ref">28</span>
-多馬說： **我的主！ 我的神！**
+多馬說： **我的主**！ **我的神！**
 </div>
 
 ---
@@ -186,7 +186,15 @@ John 11:16
 ## 2. Jesus comes
 
 ---
-Peace be with you
+<span class="ref">26</span>
+**Jesus** came and stood among them and said, <br/>
+“**Peace** be with you!”
+
+<div class="zh">
+<span class="ref">26</span>
+**耶穌** 來， 站在當中說： <br/>
+願你們 **平安** ！
+</div>
 
 >>>
 + Jesus' post-resurrection greeting (Jn20:19,21)
@@ -194,7 +202,15 @@ Peace be with you
 + but only way to achieve that is through faith in Him
 
 ---
-Reach out your hand
+<span class="ref">27</span>
+Put your **finger** here; see my **hands**. <br/>
+Reach out your **hand** and put it into my **side**.
+
+<div class="zh">
+<span class="ref">27</span>
+伸過你的 **指頭** 來， 看我的 **手** ； <br/>
+伸出你的 **手** 來， 探入我的 **肋旁** 。 <br/>
+</div>
 
 >>>
 + Jesus **knows** Thomas' doubt
@@ -206,7 +222,13 @@ Reach out your hand
   + but condition of the **heart**:
 
 ---
-Do not be unbelieving, but believing
+<span class="ref">27</span>
+Stop **doubting** and **believe**
+
+<div class="zh">
+<span class="ref">27</span>
+不要 **疑惑**， 總要 **信**
+</div>
 
 >>>
 + not **verbs** (action of belief/unbelief)
@@ -216,6 +238,15 @@ Do not be unbelieving, but believing
 
 ---
 ## 3. My Lord, my God
+
+---
+<span class="ref">28</span>
+Thomas said to him, “**My Lord** and **my God**!”
+
+<div class="zh">
+<span class="ref">28</span>
+多馬說： **我的主**！ **我的神！**
+</div>
 
 >>>
 + not just miracle of resurrection
