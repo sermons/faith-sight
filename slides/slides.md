@@ -262,6 +262,8 @@ St. Thomas in India
 >>>
 + After Christ ascended into heaven
 + Thomas went to India, preaching to Brahmin
+  + Brahmin (婆罗门): priests of Hindu (印度) temples,
+    teachers, highest-ranking caste
 + died in E. India, speared through by a Brahmin
 
 ---
@@ -278,3 +280,14 @@ and that by **believing** you may have **life** in his name.
 並且叫你們 **信了他**， <br/>
 就可以因他的名得 **生命**。
 </div>
+
+>>>
++ **why** record Thomas' doubt?
++ **journey** of faith:
+  + **natural** to have doubts
+  + but don't **remain** in disbelief
++ **purpose** is for us to:
+  + 1. **believe** Jesus is who He says He is
+  + 2. receive new **life** in Him
+
+
