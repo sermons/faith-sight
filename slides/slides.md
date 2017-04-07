@@ -7,8 +7,7 @@
 
 ---
 <span class="ref">24</span>
-Now **Thomas** (also known as Didymus), <br/>
-one of the Twelve, <br/>
+Now **Thomas** (known as Didymus), one of the Twelve, <br/>
 was **not** with the disciples when Jesus came.
 
 <span class="ref">25</span>
@@ -78,7 +77,7 @@ Thomas said to him, “**My Lord** and **my God**!”
 
 <div class="zh">
 <span class="ref">28</span>
-多馬說： **我的主**！ **我的神！**
+多馬說： **我的主**！ **我的神**！
 </div>
 
 ---
@@ -110,7 +109,7 @@ and yet have **believed**.”
 ---
 
 <span class="ref">25</span>
-So the **other** disciples told him, “We have **seen** the Lord!”
+The **other** disciples told him, “We have **seen** the Lord!”
 
 <div class="zh">
 <span class="ref">25</span>
@@ -126,8 +125,8 @@ which we have **looked** at and our hands have **touched** <br/>
 
 <div class="zh">
 論到從起初原有的生命之道， <br/>
-就是我們所聽見、 所看見、 <br/>
-親眼看過、 親手摸過的。
+就是我們所**聽見**、 所**看見**、 <br/>
+親眼**看過**、 親手**摸過**的。
 </div>
 
 <div class="caption">
@@ -161,12 +160,12 @@ which we have **looked** at and our hands have **touched** <br/>
 
 ---
 
-Then Thomas said to the rest of the disciples, <br/>
-“Let us also go, that we may die with him.”
+Then **Thomas** said to the rest of the disciples, <br/>
+“Let us also go, that we may **die** with him.”
 
 <div class="zh">
-多馬， 就對那同作門徒的說： <br/>
-我們也去和他同死罷。
+**多馬**， 就對那同作門徒的說： <br/>
+我們也去和他**同死**罷。
 </div>
 
 <div class="caption">
@@ -245,7 +244,7 @@ Thomas said to him, “**My Lord** and **my God**!”
 
 <div class="zh">
 <span class="ref">28</span>
-多馬說： **我的主**！ **我的神！**
+多馬說： **我的主**！ **我的神**！
 </div>
 
 >>>
@@ -257,7 +256,7 @@ Thomas said to him, “**My Lord** and **my God**!”
   + authority, obedience, trust with life
 
 ---
-St. Thomas in India
+## St. Thomas in India
 
 >>>
 + After Christ ascended into heaven
