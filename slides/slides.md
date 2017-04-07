@@ -113,6 +113,14 @@ and yet have **believed**.”
 1 John 1:1
 </div>
 
+>>>
++ apostles had first-hand eyewitness
+  + personal encounter w/God
+  + realisation of their hope, what they'd been waiting for
++ Thomas' hope still unseen
++ we hear about God through those who have encountered him
++ Christ is the realisation of our hopes
+
 ---
 I will not believe
 
