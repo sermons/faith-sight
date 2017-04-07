@@ -109,6 +109,27 @@ and yet have **believed**.”
 
 ---
 
+<span class="ref">25</span>
+So the **other** disciples told him, “We have **seen** the Lord!”
+
+<div class="zh">
+<span class="ref">25</span>
+那些 **門徒** 就對他說： 我們已經 **看見** 主了。
+</div>
+
+---
+
+That which was from the **beginning**, <br/>
+which we have **heard**, which we have **seen** with our eyes, <br/>
+which we have **looked** at and our hands have **touched** <br/>
+-- this we **proclaim** concerning the Word of life.
+
+<div class="zh">
+論到從起初原有的生命之道， <br/>
+就是我們所聽見、 所看見、 <br/>
+親眼看過、 親手摸過的。
+</div>
+
 <div class="caption">
 1 John 1:1
 </div>
@@ -122,7 +143,16 @@ and yet have **believed**.”
 + Christ is the realisation of our hopes
 
 ---
-I will not believe
+
+<span class="ref">25</span>
+“Unless I see the **nail marks** in his hands, <br/>
+... I **will not** believe.”
+
+<div class="zh">
+<span class="ref">25</span>
+我非看見他手上的 **釘痕** ， <br/>
+... **我總不信** 。
+</div>
 
 >>>
 + not that this is the **proof** he requires
@@ -130,6 +160,14 @@ I will not believe
 + has **already** made up his mind
 
 ---
+
+Then Thomas said to the rest of the disciples, <br/>
+“Let us also go, that we may die with him.”
+
+<div class="zh">
+多馬， 就對那同作門徒的說： <br/>
+我們也去和他同死罷。
+</div>
 
 <div class="caption">
 John 11:16
