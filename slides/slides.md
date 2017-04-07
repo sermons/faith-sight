@@ -1,6 +1,6 @@
 # Faith Without Seeing
-# 沒有看見就相信
-## John 20:24-29
+# <span class="zh">沒有看見就相信</span>
+## John <span class="zh">約翰福音</span> 20:24-29
 
 >>>
 + speaker's notes go here
@@ -13,16 +13,16 @@ was **not** with the disciples when Jesus came.
 <span class="ref">25</span>
 So the **other** disciples told him, “We have **seen** the Lord!”
 
-<div class="zh">
 <span class="ref">24</span>
+<span class="zh">
 那十二個門徒中， 有稱為低土馬的 **多馬** ； <br/>
 耶穌來的時候， 他 **沒有** 和他們同在。
-</div>
+</span>
 
-<div class="zh">
 <span class="ref">25</span>
+<span class="zh">
 那些 **門徒** 就對他說： 我們已經 **看見** 主了。
-</div>
+</span>
 
 ---
 
