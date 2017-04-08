@@ -96,15 +96,16 @@ and yet have **believed**.”
 </div>
 
 ---
-## Outline (rough draft)
-1. We have seen the Lord <span class="ref">(v24-25)</span>
-  1. I will not believe
-1. Jesus comes <span class="ref">(v26-27)</span>
-  1. Peace be with you
-  1. Reach out your hand
-  1. Do not be unbelieving
-1. My Lord, my God <span class="ref">(v28-29)</span>
-  1. Those who have not seen
+## Faith Without Seeing
+1. I **will not** believe
+  <span class="zh">我總不信</span>
+  <span class="ref">(v24-25)</span>
+1. **Jesus** comes
+  <span class="zh">耶穌來</span>
+  <span class="ref">(v26-27)</span>
+1. **My Lord**, my God
+  <span class="zh">我的主, 我的神</span>
+  <span class="ref">(v28-29)</span>
 
 ---
 
