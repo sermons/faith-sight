@@ -108,7 +108,31 @@ and yet have **believed**.”
   <span class="ref">(v28-29)</span>
 
 ---
+Then **Thomas** said to the rest of the disciples, <br/>
+“Let us also go, that we may **die** with him.”
 
+<div class="zh">
+**多馬**， 就對那同作門徒的說： <br/>
+我們也去和他**同死**罷。
+</div>
+
+<div class="caption">
+John 11:16
+</div>
+
+>>>
++ Thomas: one of 12 **disciples**
+  + followed, lived with, listened to Jesus for 3 yrs
++ **knew** who Jesus claimed to be
+  + waiting, hoping for **Messiah**
++ Jews in Jerusalem had just tried to stone Jesus (Jn10:31)
++ Lazarus died of illness (Jn11:14)
++ Jesus to go to Lazarus (Jn11:15)
++ Thomas: **zealous**, willing to die for Jesus
+  + but assumed death is **the end**
+  + Jesus: Lazarus sleeping, we wake him (Jn11:11)
+
+---
 <span class="ref">25</span>
 The **other** disciples told him, “We have **seen** the Lord!”
 
@@ -118,17 +142,12 @@ The **other** disciples told him, “We have **seen** the Lord!”
 </div>
 
 >>>
-+ Thomas: one of 12 **disciples**
-  + followed, lived with, listened to Jesus for 3 yrs
-+ **knew** who Jesus claimed to be
-  + waiting, hoping for **Messiah**
 + others had first-hand eyewitness
   + personal encounter w/risen Christ
   + realisation of their hope, what they'd been waiting for
 + Thomas' hope still unseen
 
 ---
-
 That which was from the **beginning**, <br/>
 which we have **heard**, which we have **seen** with our eyes, <br/>
 which we have **looked** at and our hands have **touched** <br/>
@@ -165,28 +184,6 @@ which we have **looked** at and our hands have **touched** <br/>
 + not that this is the **proof** he requires
 + but he "knows" resurrection is **impossible**
 + has **already** made up his mind
-
----
-
-Then **Thomas** said to the rest of the disciples, <br/>
-“Let us also go, that we may **die** with him.”
-
-<div class="zh">
-**多馬**， 就對那同作門徒的說： <br/>
-我們也去和他**同死**罷。
-</div>
-
-<div class="caption">
-John 11:16
-</div>
-
->>>
-+ Jews in Jerusalem had just tried to stone Jesus (Jn10:31)
-+ Lazarus died of illness (Jn11:14)
-+ Jesus to go to Lazarus (Jn11:15)
-+ Thomas: **zealous**, willing to die for Jesus
-  + but assumed death is **the end**
-  + Jesus: Lazarus sleeping, we wake him (Jn11:11)
 
 ---
 
