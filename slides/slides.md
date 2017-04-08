@@ -116,6 +116,16 @@ The **other** disciples told him, “We have **seen** the Lord!”
 那些 **門徒** 就對他說： 我們已經 **看見** 主了。
 </div>
 
+>>>
++ Thomas: one of 12 **disciples**
+  + followed, lived with, listened to Jesus for 3 yrs
++ **knew** who Jesus claimed to be
+  + waiting, hoping for **Messiah**
++ others had first-hand eyewitness
+  + personal encounter w/risen Christ
+  + realisation of their hope, what they'd been waiting for
++ Thomas' hope still unseen
+
 ---
 
 That which was from the **beginning**, <br/>
@@ -134,12 +144,9 @@ which we have **looked** at and our hands have **touched** <br/>
 </div>
 
 >>>
-+ apostles had first-hand eyewitness
-  + personal encounter w/God
-  + realisation of their hope, what they'd been waiting for
-+ Thomas' hope still unseen
-+ we hear about God through those who have encountered him
++ we hear about God through others who have encountered him
 + Christ is the realisation of our hopes
++ victory over death + sin
 
 ---
 
