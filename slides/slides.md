@@ -4,6 +4,9 @@
 # <span class="zh">沒有看見就相信</span>
 ## John <span class="zh">約翰福音</span> 20:24-29
 
+[ ### ](#/outline)
+<!-- .element: style="color: rgba(255,255,255,0.2)" -->
+
 >>>
 + journey of faith through the disciple called "Doubting Thomas"
 + actually, he becomes "believing Thomas"
@@ -99,7 +102,7 @@ and yet have **believed**.”
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" id="outline" -->
 ## Faith Without Seeing
 1. I **will not** believe
   <span class="zh">我總不信</span>
@@ -111,7 +114,45 @@ and yet have **believed**.”
   <span class="zh">我的主, 我的神</span>
   <span class="ref">(v28-29)</span>
 
+>>>
++ Thomas: one of 12 **disciples**
+  + followed, lived with, listened to Jesus for 3 yrs
++ **knew** who Jesus claimed to be
+  + waiting, hoping for **Messiah**
+
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" class="empty" -->
+
+<div style="height:5rem"></div>
+<div class="caption">
+Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
+</div>
+
+>>>
++ Jews in Jerusalem had just tried to stone Jesus (Jn10:31)
++ Lazarus died of illness (Jn11:14)
++ Jesus to go to Lazarus (Jn11:15)
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
+Lazarus is **dead**, and for your sake I am **glad** <br/>
+I was not there, so that you may **believe**. <br/>
+But let us **go to him**.
+
+<div class="zh">
+拉撒路**死了**。
+我沒有在那裡就**歡喜**， <br/>
+這是為你們的緣故，
+好叫你們**相信**。 <br/>
+如今我們可以**往他那裡去**罷。
+</div>
+
+<div class="caption">
+John 11:14-15
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
 Then **Thomas** said to the rest of the disciples, <br/>
 “Let us also go, that we may **die** with him.”
 
@@ -125,18 +166,12 @@ John 11:16
 </div>
 
 >>>
-+ Thomas: one of 12 **disciples**
-  + followed, lived with, listened to Jesus for 3 yrs
-+ **knew** who Jesus claimed to be
-  + waiting, hoping for **Messiah**
-+ Jews in Jerusalem had just tried to stone Jesus (Jn10:31)
-+ Lazarus died of illness (Jn11:14)
-+ Jesus to go to Lazarus (Jn11:15)
 + Thomas: **zealous**, willing to die for Jesus
   + but assumed death is **the end**
-  + Jesus: Lazarus sleeping, we wake him (Jn11:11)
++ Jesus: Lazarus sleeping, we wake him (Jn11:11)
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
 <span class="ref">25</span>
 The **other** disciples told him, “We have **seen** the Lord!”
 
@@ -152,6 +187,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
 + Thomas' hope still unseen
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 That which was from the **beginning**, <br/>
 which we have **heard**, which we have **seen** with our eyes, <br/>
 which we have **looked** at and our hands have **touched** <br/>
@@ -173,7 +209,7 @@ which we have **looked** at and our hands have **touched** <br/>
 + victory over death + sin
 
 ---
-
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 <span class="ref">25</span>
 “Unless I see the **nail marks** in his hands, <br/>
 ... I **will not** believe.”
@@ -191,10 +227,19 @@ which we have **looked** at and our hands have **touched** <br/>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
-
-## 2. Jesus comes
+## Faith Without Seeing
+1. I will not believe
+  <span class="zh">我總不信</span>
+  <span class="ref">(v24-25)</span>
+1. **Jesus comes**
+  <span class="zh">**耶穌來**</span>
+  <span class="ref">(v26-27)</span>
+1. My Lord, my God
+  <span class="zh">我的主, 我的神</span>
+  <span class="ref">(v28-29)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ivanov-Christ_Appearance_to_Mary.jpg" -->
 <span class="ref">26</span>
 **Jesus** came and stood among them and said, <br/>
 “**Peace** be with you!”
@@ -205,12 +250,17 @@ which we have **looked** at and our hands have **touched** <br/>
 願你們 **平安** ！
 </div>
 
+<div class="caption">
+Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection, 1835
+</div>
+
 >>>
 + Jesus' post-resurrection greeting (Jn20:19,21)
 + desires that we be at peace (w/others, w/God)
 + but only way to achieve that is through faith in Him
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
 <span class="ref">27</span>
 Put your **finger** here; see my **hands**. <br/>
 Reach out your **hand** and put it into my **side**.
@@ -219,6 +269,14 @@ Reach out your **hand** and put it into my **side**.
 <span class="ref">27</span>
 伸過你的 **指頭** 來， 看我的 **手** ； <br/>
 伸出你的 **手** 來， 探入我的 **肋旁** 。 <br/>
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" class="empty" -->
+
+<div style="height:5rem"></div>
+<div class="caption">
+Caravaggio, "The Incredulity of Saint Thomas", 1601
 </div>
 
 >>>
@@ -231,6 +289,7 @@ Reach out your **hand** and put it into my **side**.
   + but condition of the **heart**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
 <span class="ref">27</span>
 Stop **doubting** and **believe**
 
@@ -247,9 +306,19 @@ Stop **doubting** and **believe**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
-## 3. My Lord, my God
+## Faith Without Seeing
+1. I will not believe
+  <span class="zh">我總不信</span>
+  <span class="ref">(v24-25)</span>
+1. Jesus comes
+  <span class="zh">耶穌來</span>
+  <span class="ref">(v26-27)</span>
+1. **My Lord, my God**
+  <span class="zh">**我的主, 我的神**</span>
+  <span class="ref">(v28-29)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
 <span class="ref">28</span>
 Thomas said to him, “**My Lord** and **my God**!”
 
@@ -269,14 +338,26 @@ Thomas said to him, “**My Lord** and **my God**!”
 ---
 ## St. Thomas in India
 
+<div class="imgbox"><div>
+![Kerala, India](static/img/India_Kerala.svg)
+</div><div>
+![Church of St Thomas Mount](https://sermons.seanho.com/img/bg/Mt_Thomas_Church_Chennai.jpg)
+<div class="caption">
+Church at St Thomas Mount, Chennai, India<br/>
+Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt.jpg), CC-BY-SA 3.0
+</div>
+</div>
+
 >>>
 + After Christ ascended into heaven
 + Thomas went to India, preaching to Brahmin
   + Brahmin (婆罗门): priests of Hindu (印度) temples,
     teachers, highest-ranking caste
-+ died in E. India, speared through by a Brahmin
+  + founded 7 churches in Kerala, SW India
++ died in Chennai, SE India, speared through by a Brahmin
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 <span class="ref">31</span>
 These are **written** that you may believe <br/>
 that Jesus is the **Messiah**, the **Son of God**,
