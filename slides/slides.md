@@ -292,6 +292,16 @@ Thomas said to him, “**My Lord** and **my God**!”
 ---
 ## St. Thomas in India
 
+<div class="imgbox"><div>
+![Kerala, India](static/img/India_Kerala.svg)
+</div><div>
+![Church of St Thomas Mount](https://sermons.seanho.com/img/bg/Mt_Thomas_Church_Chennai.jpg)
+<div class="caption">
+Church at St Thomas Mount, Chennai, India<br/>
+Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt.jpg), CC-BY-SA 3.0
+</div>
+</div>
+
 >>>
 + After Christ ascended into heaven
 + Thomas went to India, preaching to Brahmin
