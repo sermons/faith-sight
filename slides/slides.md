@@ -167,9 +167,10 @@ John 11:16
 </div>
 
 >>>
-+ Thomas' faith: **zealous**, willing to die for Jesus
++ tells us about Thomas' **character**:
+  + **zealous**, willing to die for Jesus
   + but assumed death is **the end**
-  + fixed in his mind that resurrection is **impossible**
++ fixed in his mind that resurrection is **impossible**
   + but that a **noble death** is worthwhile
 + Let's return to today's passage:
 
@@ -210,8 +211,10 @@ which we have **looked** at and our hands have **touched** <br/>
 >>>
 + we hear about God through **others** who have encountered him
 + Christ is the **realisation** of our hopes
-+ **victory** over death + sin
-+ But we often **respond** the same way **Thomas** did:
+  + **victory** over death + sin
+  + we **say** we believe in Him
++ But do we **truly** believe Christ is stronger than death?
+  + Or are we like **Thomas**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
