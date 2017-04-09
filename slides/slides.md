@@ -5,7 +5,8 @@
 ## John <span class="zh">約翰福音</span> 20:24-29
 
 >>>
-+ speaker's notes go here
++ journey of faith through the disciple called "Doubting Thomas"
++ actually, he becomes "believing Thomas"
 
 ---
 <span class="ref">24</span>
