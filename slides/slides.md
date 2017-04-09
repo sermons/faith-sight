@@ -108,6 +108,10 @@ and yet have **believed**.”
   <span class="ref">(v28-29)</span>
 
 >>>
++ Thomas' **journey of faith**:
+  1. **incomplete** faith
+  2. personal **encounter** with risen Christ
+  3. **confession** of faith
 + Thomas: one of 12 **disciples**
   + followed, lived with, listened to Jesus for 3 yrs
 + **knew** who Jesus claimed to be
@@ -242,8 +246,8 @@ which we have **looked** at and our hands have **touched** <br/>
   <span class="ref">(v28-29)</span>
 
 >>>
-+ 1. Thomas' **incomplete** faith
-+ 2. Personal **encounter** with the risen Christ
+1. Thomas' **incomplete** faith
+2. Personal **encounter** with the risen Christ
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ivanov-Christ_Appearance_to_Mary.jpg" -->
@@ -332,9 +336,9 @@ Stop **doubting** and **believe**
   <span class="ref">(v28-29)</span>
 
 >>>
-+ 1. Thomas' **incomplete** faith
-+ 2. Personal **encounter** with the risen Christ
-+ 3. Thomas' **confession** of faith
+1. Thomas' **incomplete** faith
+2. Personal **encounter** with the risen Christ
+3. Thomas' **confession** of faith
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
@@ -400,8 +404,8 @@ and that by **believing** you may have **life** in his name.
   + **natural** to have doubts
   + but don't **remain** in disbelief
 + **purpose** is for us to:
-  + 1. **believe** Jesus is who He says He is
-  + 2. receive new **life** in Him
+  1. **believe** Jesus is who He says He is
+  2. receive new **life** in Him
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" class="empty" -->
