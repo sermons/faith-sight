@@ -307,7 +307,8 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
 + Thomas went to India, preaching to Brahmin
   + Brahmin (婆罗门): priests of Hindu (印度) temples,
     teachers, highest-ranking caste
-+ died in E. India, speared through by a Brahmin
+  + founded 7 churches in Kerala, SW India
++ died in Chennai, SE India, speared through by a Brahmin
 
 ---
 <span class="ref">31</span>
