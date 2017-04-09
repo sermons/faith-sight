@@ -14,24 +14,19 @@
 ---
 <span class="ref">24</span>
 Now **Thomas** (known as Didymus), one of the Twelve, <br/>
-was **not** with the disciples when Jesus came.
-
+was **not** with the disciples when Jesus came. <br/>
 <span class="ref">25</span>
 So the **other** disciples told him, “We have **seen** the Lord!”
 
+<span class="zh">
 <span class="ref">24</span>
-<span class="zh">
 那十二個門徒中， 有稱為低土馬的 **多馬** ； <br/>
-耶穌來的時候， 他 **沒有** 和他們同在。
-</span>
-
+耶穌來的時候， 他 **沒有** 和他們同在。<br/>
 <span class="ref">25</span>
-<span class="zh">
 那些 **門徒** 就對他說： 我們已經 **看見** 主了。
 </span>
 
 ---
-
 <span class="ref">25</span>
 But he said to them, <br/>
 “Unless I see the **nail marks** in his hands <br/>
@@ -48,8 +43,7 @@ and put my **hand** into his side, I **will not** believe.”
 ---
 <span class="ref">26</span>
 A week later his disciples were in the house again, <br/>
-and **Thomas** was with them.
-
+and **Thomas** was with them. <br/>
 Though the doors were **locked**, <br/>
 **Jesus** came and stood among them and said, <br/>
 “**Peace** be with you!”
@@ -89,8 +83,7 @@ Thomas said to him, “**My Lord** and **my God**!”
 ---
 <span class="ref">29</span>
 Then Jesus told him, <br/>
-“Because you have **seen** me, you have **believed**;
-
+“Because you have **seen** me, you have **believed**; <br/>
 blessed are those who have **not seen** <br/>
 and yet have **believed**.”
 
@@ -309,7 +302,7 @@ Caravaggio, "The Incredulity of Saint Thomas", 1601
   + but condition of the **heart**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
 <span class="ref">27</span>
 Stop **doubting** and **believe**
 
@@ -388,11 +381,10 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
 + There is a **reason** why apostle John recorded Thomas' **journey of faith**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 <span class="ref">31</span>
 These are **written** that you may believe <br/>
-that Jesus is the **Messiah**, the **Son of God**,
-
+that Jesus is the **Messiah**, the **Son of God**, <br/>
 and that by **believing** you may have **life** in his name.
 
 <div class="zh">
@@ -411,3 +403,5 @@ and that by **believing** you may have **life** in his name.
   + 1. **believe** Jesus is who He says He is
   + 2. receive new **life** in Him
 
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" class="empty" -->
