@@ -190,8 +190,16 @@ which we have **looked** at and our hands have **touched** <br/>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
-
-## 2. Jesus comes
+## Faith Without Seeing
+1. I will not believe
+  <span class="zh">我總不信</span>
+  <span class="ref">(v24-25)</span>
+1. **Jesus comes**
+  <span class="zh">**耶穌來**</span>
+  <span class="ref">(v26-27)</span>
+1. My Lord, my God
+  <span class="zh">我的主, 我的神</span>
+  <span class="ref">(v28-29)</span>
 
 ---
 <span class="ref">26</span>
@@ -220,6 +228,13 @@ Reach out your **hand** and put it into my **side**.
 伸出你的 **手** 來， 探入我的 **肋旁** 。 <br/>
 </div>
 
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" class="empty" -->
+
+<div class="caption">
+Caravaggio, "The Incredulity of Saint Thomas", 1601
+</div>
+
 >>>
 + Jesus **knows** Thomas' doubt
   + personal **encounter**
@@ -246,7 +261,16 @@ Stop **doubting** and **believe**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
-## 3. My Lord, my God
+## Faith Without Seeing
+1. I will not believe
+  <span class="zh">我總不信</span>
+  <span class="ref">(v24-25)</span>
+1. Jesus comes
+  <span class="zh">耶穌來</span>
+  <span class="ref">(v26-27)</span>
+1. **My Lord, my God**
+  <span class="zh">**我的主, 我的神**</span>
+  <span class="ref">(v28-29)</span>
 
 ---
 <span class="ref">28</span>
