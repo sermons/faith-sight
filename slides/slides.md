@@ -110,6 +110,43 @@ and yet have **believed**.”
   <span class="zh">我的主, 我的神</span>
   <span class="ref">(v28-29)</span>
 
+>>>
++ Thomas: one of 12 **disciples**
+  + followed, lived with, listened to Jesus for 3 yrs
++ **knew** who Jesus claimed to be
+  + waiting, hoping for **Messiah**
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" class="empty" -->
+
+<div style="height:5rem"></div>
+<div class="caption">
+Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
+</div>
+
+>>>
++ Jews in Jerusalem had just tried to stone Jesus (Jn10:31)
++ Lazarus died of illness (Jn11:14)
++ Jesus to go to Lazarus (Jn11:15)
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
+Lazarus is **dead**, and for your sake I am **glad** <br/>
+I was not there, so that you may **believe**. <br/>
+But let us **go to him**.
+
+<div class="zh">
+拉撒路**死了**。
+我沒有在那裡就**歡喜**， <br/>
+這是為你們的緣故，
+好叫你們**相信**。 <br/>
+如今我們可以**往他那裡去**罷。
+</div>
+
+<div class="caption">
+John 11:14-15
+</div>
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
 Then **Thomas** said to the rest of the disciples, <br/>
@@ -121,21 +158,13 @@ Then **Thomas** said to the rest of the disciples, <br/>
 </div>
 
 <div class="caption">
-John 11:16<br/>
-(img: Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706)
+John 11:16
 </div>
 
 >>>
-+ Thomas: one of 12 **disciples**
-  + followed, lived with, listened to Jesus for 3 yrs
-+ **knew** who Jesus claimed to be
-  + waiting, hoping for **Messiah**
-+ Jews in Jerusalem had just tried to stone Jesus (Jn10:31)
-+ Lazarus died of illness (Jn11:14)
-+ Jesus to go to Lazarus (Jn11:15)
 + Thomas: **zealous**, willing to die for Jesus
   + but assumed death is **the end**
-  + Jesus: Lazarus sleeping, we wake him (Jn11:11)
++ Jesus: Lazarus sleeping, we wake him (Jn11:11)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
@@ -241,7 +270,7 @@ Reach out your **hand** and put it into my **side**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" class="empty" -->
 
-<!-- .element: style="height:5rem" -->
+<div style="height:5rem"></div>
 <div class="caption">
 Caravaggio, "The Incredulity of Saint Thomas", 1601
 </div>
