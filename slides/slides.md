@@ -104,14 +104,14 @@ and yet have **believed**.”
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" id="outline" -->
 ## Faith Without Seeing
-1. I **will not** believe
-  <span class="zh">我總不信</span>
+1. I *will not* believe
+  <span class="zh">**我總不信**</span>
   <span class="ref">(v24-25)</span>
-1. **Jesus** comes
-  <span class="zh">耶穌來</span>
+1. *Jesus* comes
+  <span class="zh">**耶穌來**</span>
   <span class="ref">(v26-27)</span>
-1. **My Lord**, my God
-  <span class="zh">我的主, 我的神</span>
+1. *My Lord*, my God
+  <span class="zh">**我的主, 我的神**</span>
   <span class="ref">(v28-29)</span>
 
 >>>
