@@ -364,7 +364,7 @@ Thomas said to him, “**My Lord** and **my God**!”
   + After Christ ascended into heaven:
 
 ---
-## St. Thomas in India
+## St. Thomas in India <span class="zh">印度</span>
 
 <div class="imgbox"><div>
 ![Kerala, India](static/img/India_Kerala.svg)
