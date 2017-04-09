@@ -260,8 +260,8 @@ which we have **looked** at and our hands have **touched** <br/>
 
 <div class="zh">
 <span class="ref">26</span>
-**耶穌** 來， 站在當中說： <br/>
-願你們 **平安** ！
+**耶穌** 來， 站在當中說：
+願你們**平安**！
 </div>
 
 <div class="caption">
