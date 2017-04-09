@@ -4,6 +4,9 @@
 # <span class="zh">沒有看見就相信</span>
 ## John <span class="zh">約翰福音</span> 20:24-29
 
+[ ### ](#/outline)
+<!-- .element: style="color: rgba(255,255,255,0.2)" -->
+
 >>>
 + speaker's notes go here
 
@@ -98,7 +101,7 @@ and yet have **believed**.”
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" id="outline" -->
 ## Faith Without Seeing
 1. I **will not** believe
   <span class="zh">我總不信</span>
