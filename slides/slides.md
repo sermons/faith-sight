@@ -129,9 +129,9 @@ Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
 </div>
 
 >>>
-+ Jews in Jerusalem had just tried to stone Jesus (Jn10:31)
-+ Lazarus died of illness (Jn11:14)
-+ Jesus to go to Lazarus (Jn11:15)
++ when **Lazarus** was ill,
++ Thomas was **with** Jesus, across the Jordan, away from Jerusalem
++ After Lazarus **died**, Jesus said:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
@@ -151,6 +151,10 @@ But let us **go to him**.
 John 11:14-15
 </div>
 
+>>>
++ Jews in Jerusalem had just tried to **stone** Jesus (Jn10:31)
+  + **dangerous** to return to see Lazarus
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
 Then **Thomas** said to the rest of the disciples, <br/>
@@ -166,9 +170,11 @@ John 11:16
 </div>
 
 >>>
-+ Thomas: **zealous**, willing to die for Jesus
++ Thomas' faith: **zealous**, willing to die for Jesus
   + but assumed death is **the end**
-+ Jesus: Lazarus sleeping, we wake him (Jn11:11)
+  + fixed in his mind that resurrection is **impossible**
+  + but that a **noble death** is worthwhile
++ Let's return to today's passage:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
@@ -181,10 +187,11 @@ The **other** disciples told him, “We have **seen** the Lord!”
 </div>
 
 >>>
-+ others had first-hand eyewitness
-  + personal encounter w/risen Christ
-  + realisation of their hope, what they'd been waiting for
-+ Thomas' hope still unseen
++ others had first-hand **eyewitness**
+  + personal **encounter** w/risen Christ
+  + realisation of their **hope**, what they'd been waiting for
++ Thomas' hope still **unseen**
++ Still true today:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
@@ -204,9 +211,10 @@ which we have **looked** at and our hands have **touched** <br/>
 </div>
 
 >>>
-+ we hear about God through others who have encountered him
-+ Christ is the realisation of our hopes
-+ victory over death + sin
++ we hear about God through **others** who have encountered him
++ Christ is the **realisation** of our hopes
++ **victory** over death + sin
++ But we often **respond** the same way **Thomas** did:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
@@ -221,9 +229,11 @@ which we have **looked** at and our hands have **touched** <br/>
 </div>
 
 >>>
-+ not that this is the **proof** he requires
-+ but he "knows" resurrection is **impossible**
-+ has **already** made up his mind
++ Thomas doesn't really want **proof**
+  + he's **already** made up his mind
++ he "knows" resurrection is **impossible**
+  + is not **expecting** to actually see the nail marks
++ But **Jesus** defies his expectations:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
@@ -237,6 +247,10 @@ which we have **looked** at and our hands have **touched** <br/>
 1. My Lord, my God
   <span class="zh">我的主, 我的神</span>
   <span class="ref">(v28-29)</span>
+
+>>>
++ 1. Thomas' **incomplete** faith
++ 2. Personal **encounter** with the risen Christ
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ivanov-Christ_Appearance_to_Mary.jpg" -->
@@ -255,9 +269,9 @@ Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection,
 </div>
 
 >>>
-+ Jesus' post-resurrection greeting (Jn20:19,21)
-+ desires that we be at peace (w/others, w/God)
-+ but only way to achieve that is through faith in Him
++ Jesus' post-resurrection **greeting**, 3x (Jn20:19,21)
++ desires that we be at **peace** (w/others, w/God)
++ but only way to achieve that is through **faith** in Him
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
@@ -271,6 +285,12 @@ Reach out your **hand** and put it into my **side**.
 伸出你的 **手** 來， 探入我的 **肋旁** 。 <br/>
 </div>
 
+>>>
++ Jesus **knows** Thomas is doubting
+  + addresses him **directly**
+  + personal **encounter**
++ Thomas was **not expecting** to see Him!
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" class="empty" -->
 
@@ -280,9 +300,6 @@ Caravaggio, "The Incredulity of Saint Thomas", 1601
 </div>
 
 >>>
-+ Jesus **knows** Thomas' doubt
-  + personal **encounter**
-  + calls Thomas' **bluff**
 + **truth** does not fear **examination**
   + true gold fears no fire
 + but root issue is not about **evidence** or proof,
