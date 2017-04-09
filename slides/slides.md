@@ -111,6 +111,7 @@ and yet have **believed**.”
   <span class="ref">(v28-29)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
 Then **Thomas** said to the rest of the disciples, <br/>
 “Let us also go, that we may **die** with him.”
 
@@ -120,7 +121,8 @@ Then **Thomas** said to the rest of the disciples, <br/>
 </div>
 
 <div class="caption">
-John 11:16
+John 11:16<br/>
+(img: Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706)
 </div>
 
 >>>
@@ -136,6 +138,7 @@ John 11:16
   + Jesus: Lazarus sleeping, we wake him (Jn11:11)
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
 <span class="ref">25</span>
 The **other** disciples told him, “We have **seen** the Lord!”
 
@@ -151,6 +154,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
 + Thomas' hope still unseen
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 That which was from the **beginning**, <br/>
 which we have **heard**, which we have **seen** with our eyes, <br/>
 which we have **looked** at and our hands have **touched** <br/>
@@ -172,7 +176,7 @@ which we have **looked** at and our hands have **touched** <br/>
 + victory over death + sin
 
 ---
-
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 <span class="ref">25</span>
 “Unless I see the **nail marks** in his hands, <br/>
 ... I **will not** believe.”
@@ -202,6 +206,7 @@ which we have **looked** at and our hands have **touched** <br/>
   <span class="ref">(v28-29)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ivanov-Christ_Appearance_to_Mary.jpg" -->
 <span class="ref">26</span>
 **Jesus** came and stood among them and said, <br/>
 “**Peace** be with you!”
@@ -212,12 +217,17 @@ which we have **looked** at and our hands have **touched** <br/>
 願你們 **平安** ！
 </div>
 
+<div class="caption">
+Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection, 1835
+</div>
+
 >>>
 + Jesus' post-resurrection greeting (Jn20:19,21)
 + desires that we be at peace (w/others, w/God)
 + but only way to achieve that is through faith in Him
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
 <span class="ref">27</span>
 Put your **finger** here; see my **hands**. <br/>
 Reach out your **hand** and put it into my **side**.
@@ -246,6 +256,7 @@ Caravaggio, "The Incredulity of Saint Thomas", 1601
   + but condition of the **heart**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
 <span class="ref">27</span>
 Stop **doubting** and **believe**
 
@@ -274,6 +285,7 @@ Stop **doubting** and **believe**
   <span class="ref">(v28-29)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
 <span class="ref">28</span>
 Thomas said to him, “**My Lord** and **my God**!”
 
@@ -312,6 +324,7 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
 + died in Chennai, SE India, speared through by a Brahmin
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 <span class="ref">31</span>
 These are **written** that you may believe <br/>
 that Jesus is the **Messiah**, the **Son of God**,
