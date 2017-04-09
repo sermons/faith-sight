@@ -231,6 +231,7 @@ Reach out your **hand** and put it into my **side**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" class="empty" -->
 
+<!-- .element: style="height:5rem" -->
 <div class="caption">
 Caravaggio, "The Incredulity of Saint Thomas", 1601
 </div>
