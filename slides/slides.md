@@ -1,3 +1,5 @@
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
+
 # Faith Without Seeing
 # <span class="zh">沒有看見就相信</span>
 ## John <span class="zh">約翰福音</span> 20:24-29
@@ -96,6 +98,7 @@ and yet have **believed**.”
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 ## Faith Without Seeing
 1. I **will not** believe
   <span class="zh">我總不信</span>
@@ -186,6 +189,7 @@ which we have **looked** at and our hands have **touched** <br/>
 + has **already** made up his mind
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 
 ## 2. Jesus comes
 
@@ -241,6 +245,7 @@ Stop **doubting** and **believe**
   + the believing person
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 ## 3. My Lord, my God
 
 ---
