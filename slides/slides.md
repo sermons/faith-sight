@@ -300,8 +300,11 @@ Caravaggio, "The Incredulity of Saint Thomas", 1601
 </div>
 
 >>>
++ **Caravaggio**'s (卡拉瓦乔) famous painting
+  + portrays Christ almost **pulling** Thomas' finger in
+  + with **patience** for his disbelief
 + **truth** does not fear **examination**
-  + true gold fears no fire
+  + true **gold** fears no fire
 + but root issue is not about **evidence** or proof,
   + but condition of the **heart**:
 
@@ -316,7 +319,8 @@ Stop **doubting** and **believe**
 </div>
 
 >>>
-+ not **verbs** (action of belief/unbelief)
++ adjectives (形容詞), not **verbs**
++ not **action** of doubting vs believing
 + but what kind of **person** we are:
   + the unbelieving person, or
   + the believing person
@@ -334,6 +338,11 @@ Stop **doubting** and **believe**
   <span class="zh">**我的主, 我的神**</span>
   <span class="ref">(v28-29)</span>
 
+>>>
++ 1. Thomas' **incomplete** faith
++ 2. Personal **encounter** with the risen Christ
++ 3. Thomas' **confession** of faith
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
 <span class="ref">28</span>
@@ -345,12 +354,17 @@ Thomas said to him, “**My Lord** and **my God**!”
 </div>
 
 >>>
-+ not just miracle of resurrection
-+ but that Jesus more than just a teacher/Rabbi
-+ His **claims** about Himself are true
++ not just **amazed** at the miracle of resurrection
++ Thomas addresses Jesus not as **teacher** / Rabbi
+  + But as **Lord** and **God**
++ Jesus' **claims** about Himself are true
   + Son of God, Messiah
-+ therefore, our response: my Lord
-  + authority, obedience, trust with life
++ therefore, our **response**: my Lord
+  + authority, **obedience**, trust with life
+  + "**my**": personal, had an encounter
++ **Thomas** really did live rest of life with Jesus as his Lord + God:
+  + According to **tradition** (not in Bible),
+  + After Christ ascended into heaven:
 
 ---
 ## St. Thomas in India
@@ -366,12 +380,12 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
 </div>
 
 >>>
-+ After Christ ascended into heaven
-+ Thomas went to India, preaching to Brahmin
-  + Brahmin (婆罗门): priests of Hindu (印度) temples,
++ Thomas went to **India**, preaching to Brahmin
+  + **Brahmin** (婆罗门): priests of Hindu (印度) temples,
     teachers, highest-ranking caste
-  + founded 7 churches in Kerala, SW India
-+ died in Chennai, SE India, speared through by a Brahmin
+  + founded 7 churches in **Kerala**, SW India
++ died in **Chennai**, SE India, speared through by a Brahmin
++ There is a **reason** why apostle John recorded Thomas' **journey of faith**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
@@ -390,12 +404,10 @@ and that by **believing** you may have **life** in his name.
 </div>
 
 >>>
-+ **why** record Thomas' doubt?
 + **journey** of faith:
   + **natural** to have doubts
   + but don't **remain** in disbelief
 + **purpose** is for us to:
   + 1. **believe** Jesus is who He says He is
   + 2. receive new **life** in Him
-
 
