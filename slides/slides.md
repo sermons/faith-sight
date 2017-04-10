@@ -388,6 +388,16 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
 + There is a **reason** why apostle John recorded Thomas' **journey of faith**:
 
 ---
+<span class="ref">29</span>
+Blessed are those who have **not seen** <br/>
+and yet have **believed**
+
+<div class="zh">
+<span class="ref">29</span>
+那 **沒有看見** 就 **信** 的有福了
+</div>
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 <span class="ref">31</span>
 These are **written** that you may believe <br/>
