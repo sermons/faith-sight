@@ -141,7 +141,7 @@ But let us **go to him**.
 如今我們可以**往他那裡去**罷。
 </div>
 
-<div class="caption">
+<div class="ref">
 John 11:14-15
 </div>
 
@@ -159,7 +159,7 @@ Then **Thomas** said to the rest of the disciples, <br/>
 我們也去和他**同死**罷。
 </div>
 
-<div class="caption">
+<div class="ref">
 John 11:16
 </div>
 
@@ -201,7 +201,7 @@ which we have **looked** at and our hands have **touched** <br/>
 親眼**看過**、 親手**摸過**的。
 </div>
 
-<div class="caption">
+<div class="ref">
 1 John 1:1
 </div>
 
