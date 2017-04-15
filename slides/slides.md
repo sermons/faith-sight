@@ -386,9 +386,11 @@ we are of all people most to be **pitied**.
 
 <div class="zh">
 <span class="ref">17</span>
-基督若沒有復活， 你們的信便是徒然， 你們仍在罪裡。 <br/>
+基督若沒有復活， 你們的信便是徒然，<br/>
+你們仍在罪裡。 <br/>
 <span class="ref">19</span>
-我們若靠基督， 只在今生有指望， 就算比眾人更可憐。
+我們若靠基督， 只在今生有指望， <br/>
+就算比眾人更可憐。
 </div>
 
 <span class="ref">
