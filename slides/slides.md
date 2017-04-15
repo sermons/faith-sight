@@ -367,6 +367,7 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
 + There is a **reason** why apostle John recorded Thomas' **journey of faith**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
 <span class="ref">29</span>
 Blessed are those who have **not seen** <br/>
 and yet have **believed**
@@ -377,6 +378,7 @@ and yet have **believed**
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 <span class="ref">17</span>
 If Christ has not been **raised**, your faith is **futile**; <br/>
 you are still in your **sins**.  <br/>
@@ -398,6 +400,7 @@ we are of all people most to be **pitied**.
 </span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 Nothing in all creation is **hidden** from God’s sight. <br/>
 Everything is **uncovered** and **laid bare** before  <br/>
 the eyes of him to whom we must **give account**.
