@@ -377,6 +377,40 @@ and yet have **believed**
 </div>
 
 ---
+<span class="ref">17</span>
+If Christ has not been **raised**, your faith is **futile**; <br/>
+you are still in your **sins**.  <br/>
+<span class="ref">19</span>
+If only for **this life** we have hope in Christ, <br/>
+we are of all people most to be **pitied**.
+
+<div class="zh">
+<span class="ref">17</span>
+基督若沒有復活， 你們的信便是徒然， 你們仍在罪裡。 <br/>
+<span class="ref">19</span>
+我們若靠基督， 只在今生有指望， 就算比眾人更可憐。
+</div>
+
+<span class="ref">
+1 Corinthians 15:17,19
+</span>
+
+---
+Nothing in all creation is **hidden** from God’s sight. <br/>
+Everything is **uncovered** and **laid bare** before  <br/>
+the eyes of him to whom we must **give account**.
+
+<div class="zh">
+並且被造的沒有一樣在他面前不顯然的； <br/>
+原來萬物在那與我們有關係的主眼前， <br/>
+都是赤露敞開的。
+</div>
+
+<span class="ref">
+Hebrews 4:13
+</span>
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 <span class="ref">31</span>
 These are **written** that you may believe <br/>
