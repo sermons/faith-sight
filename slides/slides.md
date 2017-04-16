@@ -118,7 +118,7 @@ and yet have **believed**.”
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" class="empty" -->
 
-<div style="height:8rem"></div>
+<div style="height:10rem"></div>
 <div class="caption">
 Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
 </div>
@@ -270,7 +270,7 @@ Reach out your **hand** and put it into my **side**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" class="empty" -->
 
-<div style="height:8rem"></div>
+<div style="height:10rem"></div>
 <div class="caption">
 Caravaggio, "The Incredulity of Saint Thomas", 1601
 </div>
@@ -303,13 +303,12 @@ Stop **doubting** and **believe**
 
 ---
 <!-- .slide: data-background="white" -->
-# Is my **posture** <br/> toward Christ
+# Is my **response** <br/> to Christ's invitation
 # one of **belief** <br/> or disbelief?
 
 >>>
-+ attitude, predisposition
-+ yes there is much historical **evidence**
-+ but am I **willing** to believe?
++ not just **historical** evidence of resurrection
++ personal **encounter** with risen Christ
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
@@ -371,6 +370,9 @@ and yet have **believed**
 <span class="ref">29</span>
 那 **沒有看見** 就 **信** 的有福了
 </div>
+
+>>>
++ now Christ's **invitation** comes to **us**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
