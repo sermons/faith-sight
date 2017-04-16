@@ -125,7 +125,7 @@ Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
 </div>
 
 >>>
-+ when **Lazarus** was ill,
++ when Jesus' friend **Lazarus** was ill,
 + Thomas was **with** Jesus, across the Jordan, away from Jerusalem
 + After Lazarus **died**, Jesus said:
 
@@ -188,12 +188,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
   + personal **encounter** w/risen Christ
   + realisation of their **hope**, what they'd been waiting for
 + Thomas' hope still **unseen**
-+ Still true today:
-+ Christ is the **realisation** of our hopes
-  + **victory** over death + sin
-  + we **say** we believe in Him
-+ But do we **truly** believe Christ is stronger than death?
-  + Or are we like **Thomas**:
+  + so his response is:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
@@ -213,6 +208,16 @@ The **other** disciples told him, “We have **seen** the Lord!”
 + he "knows" resurrection is **impossible**
   + is not **expecting** to actually see the nail marks
 + But **Jesus** defies his expectations:
+
+---
+<!-- .slide: data-background="white" -->
+# 
+
+>>>
++ Christ is the **realisation** of our hopes
+  + **victory** over death + sin
+  + we **say** we believe in Him
++ But do we **truly** believe Christ is stronger than death?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
@@ -297,6 +302,11 @@ Stop **doubting** and **believe**
 + but what kind of **person** we are:
   + the unbelieving person, or
   + the believing person
+
+---
+<!-- .slide: data-background="white" -->
+# Is my **posture** toward Christ
+# **believing** or **unbelieving**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
@@ -402,6 +412,17 @@ the eyes of him to whom we must **give account**.
 <span class="ref">
 Hebrews 4:13
 </span>
+
+---
+<!-- .slide: data-background="white" -->
+# What is my **response** to the **resurrection**?
+
+>>>
++ skeptic? impossible but a nice **fable**?
++ a **moral** story that we might be good people? 
++ not how **disciples**, including Thomas, saw it
++ **truth** willing to **die** for
++ hope that gives us **life**, both now and for eternity
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
