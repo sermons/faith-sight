@@ -411,7 +411,7 @@ Hebrews 4:13
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my **response** <br/> to the **resurrection**?
+# Will I **stake my life** <br/> on the **resurrection**?
 
 >>>
 + **disciples**, incl. Thomas, saw it:
