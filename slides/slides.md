@@ -6,7 +6,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Is my **faith** in God **complete**?
+# What is my **response** <br/> to the **resurrection**?
 
 [ ### ](#/outline)
 <!-- .element: style="color: rgba(0,0,0,0.2)" -->
@@ -415,7 +415,7 @@ Hebrews 4:13
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my **response** to the **resurrection**?
+# What is my **response** <br/> to the **resurrection**?
 
 >>>
 + skeptic? impossible but a nice **fable**?
