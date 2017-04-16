@@ -209,7 +209,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I deemed **resurrection** as **impossible**?
+# Have I deemed <br/> Christ's **new life** <br/> as **impossible**?
 
 >>>
 + Christ is the **realisation** of our hopes
