@@ -212,6 +212,9 @@ The **other** disciples told him, “We have **seen** the Lord!”
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 ## Faith Without Seeing
+### 1. "I will not believe" <span class="ref">(v24-25)</span>
+### 2. **Jesus arrives** <span class="ref">(v26-27)</span>
+### 3. "My Lord, my God" <span class="ref">(v28-29)</span>
 
 >>>
 1. Thomas' **incomplete** faith
@@ -293,6 +296,9 @@ Stop **doubting** and **believe**
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 ## Faith Without Seeing
+### 1. "I will not believe" <span class="ref">(v24-25)</span>
+### 2. Jesus arrives <span class="ref">(v26-27)</span>
+### 3. **"My Lord, my God"** <span class="ref">(v28-29)</span>
 
 >>>
 1. Thomas' **incomplete** faith
