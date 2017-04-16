@@ -207,11 +207,10 @@ The **other** disciples told him, “We have **seen** the Lord!”
   + he's **already** made up his mind
 + he "knows" resurrection is **impossible**
   + is not **expecting** to actually see the nail marks
-+ But **Jesus** defies his expectations:
 
 ---
 <!-- .slide: data-background="white" -->
-# 
+# Have I deemed **resurrection** as **impossible**?
 
 >>>
 + Christ is the **realisation** of our hopes
