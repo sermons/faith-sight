@@ -337,12 +337,9 @@ Thomas said to him, “**My Lord** and **my God**!”
 + not just about the **miracle** of resurrection
 + Thomas addresses Jesus not as **teacher** / Rabbi
   + But as **Lord** and **God**
-+ Jesus' **claims** about Himself are true
-  + Son of God, Messiah
-+ &rArr; his **response**: my Lord
-  + authority, **obedience**, trust with life
++ authority, **obedience**, trust with life
   + "**my**": personal, had an encounter
-+ Later, after Christ ascended to heaven:
++ Thomas **lived** this faith:
 
 ---
 ## St. Thomas in India <span class="zh">印度</span>
@@ -358,7 +355,7 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
 </div>
 
 >>>
-+ Thomas went to **India**, preaching to Brahmin
++ Thomas later went to **India**, preaching to Brahmin
   + **Brahmin** (婆罗门): priests of Hindu (印度) temples,
     teachers, highest-ranking caste
   + founded 7 churches in **Kerala**, SW India
@@ -397,10 +394,9 @@ Hebrews 4:13
 
 >>>
 + skeptic? impossible but a nice **fable**?
-+ a **moral** story that we might be good people?
-+ not how **disciples**, including Thomas, saw it
-+ **truth** willing to **die** for
-+ hope that gives us **life**, both now and for eternity
++ not how **disciples**, including Thomas, saw it:
+  + **truth** they were willing to **die** for
+  + hope that gives us **life**, both now and for eternity
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
