@@ -12,7 +12,6 @@
 <!-- .element: style="color: rgba(0,0,0,0.2)" -->
 
 >>>
-+
 + journey of faith through the disciple called "Doubting Thomas"
 + actually, he becomes "believing Thomas"
 
@@ -304,8 +303,8 @@ Stop **doubting** and **believe**
 
 ---
 <!-- .slide: data-background="white" -->
-# Is my **posture** toward Christ
-# **believing** or **unbelieving**?
+# Is my **posture** <br/> toward Christ
+# one of **belief** <br/> or disbelief?
 
 >>>
 + attitude, predisposition
