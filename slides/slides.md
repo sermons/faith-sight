@@ -209,7 +209,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I deemed <br/> Christ's **new life** <br/> as **impossible**?
+# Have I deemed <br/> **new life** in Christ <br/> as **impossible**?
 
 >>>
 + Christ is the **realisation** of our hopes
@@ -374,28 +374,6 @@ and yet have **believed**
 <span class="ref">29</span>
 那 **沒有看見** 就 **信** 的有福了
 </div>
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
-<span class="ref">17</span>
-If Christ has not been **raised**, your faith is **futile**; <br/>
-you are still in your **sins**.  <br/>
-<span class="ref">19</span>
-If only for **this life** we have hope in Christ, <br/>
-we are of all people most to be **pitied**.
-
-<div class="zh">
-<span class="ref">17</span>
-基督若沒有復活， 你們的信便是徒然，<br/>
-你們仍在罪裡。 <br/>
-<span class="ref">19</span>
-我們若靠基督， 只在今生有指望， <br/>
-就算比眾人更可憐。
-</div>
-
-<span class="ref">
-1 Corinthians 15:17,19
-</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
