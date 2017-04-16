@@ -13,9 +13,11 @@
 
 >>>
 + moral **story** / fable?
-  + nice thing **Jesus** did, nothing to do with **me**?
-+ **journey of faith** of the disciple called "Doubting Thomas"
-+ actually, he becomes "believing Thomas"
+  + nice thing **Jesus** did, 
+  + but nothing to do with **me**?
++ **journey of faith** of
+  + disciple called "Doubting Thomas"
+  + &rArr; becomes "believing Thomas"
 
 ---
 <span class="ref">24</span>
@@ -113,7 +115,7 @@ and yet have **believed**.”
 >>>
 + Thomas' **journey of faith**:
   1. posture of **disbelief**
-  2. personal **encounter** with risen Christ
+  2. personal **encounter** <br/> with risen Christ
   3. **proclamation** of faith
 
 ---
@@ -126,7 +128,8 @@ Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
 
 >>>
 + when Jesus' friend **Lazarus** was ill,
-+ Thomas was **with** Jesus, across the Jordan
++ Thomas was **with** Jesus
+  + across the Jordan
 + After Lazarus **died**, Jesus said:
 
 ---
@@ -148,8 +151,9 @@ John 11:14-15
 </div>
 
 >>>
-+ Jews in Jerusalem had just tried to **stone** Jesus (Jn10:31)
-  + **dangerous** to return to see Lazarus
++ religious leaders in Jerusalem <br/>
+  had just tried to **stone** Jesus (Jn10:31)
+  + **dangerous** to return
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
@@ -167,7 +171,7 @@ John 11:16
 
 >>>
 + tells us about Thomas' **character**:
-  + **zealous**, willing to **die** for a noble cause
+  + **zealous**, die for **noble cause**
   + but assumed death is **the end**
 + That's why, back in today's passage:
 
@@ -204,11 +208,10 @@ The **other** disciples told him, “We have **seen** the Lord!”
 + Thomas doesn't really want **proof**
   + he's **already** made up his mind
 + he "knows" resurrection is **impossible**
-  + is not **expecting** to actually see the nail marks
+  + not **expecting** to actually see it
 + We do the **same**:
-  + "my **life** is hopeless"
-  + "my **family** is hopeless"
-  + "call me a **sinner**, that's just the **way** I am"
+  + "my **life** is hopeless", **family**
+  + "call me a **sinner**, <br/> that's just the **way** I am"
 
 ---
 <!-- .slide: data-background="white" -->
@@ -231,7 +234,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
 
 >>>
 1. Thomas' **posture** of disbelief
-2. Personal **encounter** with the risen Christ
+2. Personal **encounter** w/risen Christ
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ivanov-Christ_Appearance_to_Mary.jpg" -->
@@ -250,10 +253,11 @@ Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection,
 </div>
 
 >>>
-+ Jesus' post-resurrection **greeting**, 3x (Jn20:19,21)
-+ desires that we be at **peace** (w/others, w/God)
++ post-resurrection **greeting** (3x Jn20)
++ desires that we be at **peace**
+  + w/others, w/God
   + but only way is through **Himself**
-+ Jesus then addresses Thomas **directly**:
++ Then addresses Thomas **directly**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
@@ -280,12 +284,13 @@ Caravaggio, "The Incredulity of Saint Thomas", 1601
 </div>
 
 >>>
-+ **Caravaggio** (卡拉瓦乔) Italian Baroque painter
-  + portrays Christ almost **pulling** Thomas' finger in
-  + with **patience** for his disbelief
++ **Caravaggio** (卡拉瓦乔)
+  + Italian Baroque painter
+  + **pulls** Thomas' finger in
+  + **patience** for his disbelief
 + **truth** does not fear **examination**
   + true **gold** fears no fire
-+ but root issue is not about **evidence** or proof,
++ but **root** issue is not about **evidence**
   + but condition of the **heart**:
 
 ---
@@ -311,8 +316,8 @@ Stop **doubting** and **believe**
 # one of **belief** <br/> or disbelief?
 
 >>>
-+ not just **historical** evidence of resurrection
-+ personal **encounter** with risen Christ
++ not just **historical** event of resurrection
++ Christ's personal **invitation** today
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
@@ -323,7 +328,7 @@ Stop **doubting** and **believe**
 
 >>>
 1. Thomas' **posture** of disbelief
-2. Personal **encounter** with the risen Christ
+2. Personal **encounter** w/risen Christ
 3. Thomas' **proclamation** of faith
 
 ---
@@ -337,10 +342,11 @@ Thomas said to him, “**My Lord** and **my God**!”
 </div>
 
 >>>
-+ not just about the **miracle** of resurrection
-+ Thomas addresses Jesus not as **teacher** / Rabbi
-  + But as **Lord** and **God**
++ not just response to a **miracle**
++ not "**teacher**" / Rabbi
+  + But **Lord** and **God**
 + authority, **obedience**, trust with life
+  + **repent** from sin + disbelief
 + Thomas **lived** this faith:
 
 ---
@@ -357,11 +363,12 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
 </div>
 
 >>>
-+ Thomas later went to **India**, preaching to Brahmin
++ Thomas later went to **India**
   + **Brahmin** (婆罗门): priests of Hindu (印度) temples,
     teachers, highest-ranking caste
-  + founded 7 churches in **Kerala**, SW India
-+ died in **Chennai**, SE India, speared through by a Brahmin
++ 7 churches in **Kerala**, SW India
++ died in **Chennai**, SE India
+  + speared through by a Brahmin
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
@@ -395,18 +402,22 @@ Hebrews 4:13
 </span>
 
 >>>
-+ we will all stand before **throne of judgment**
-+ no **forgiveness** apart from Christ
++ we will all stand before <br/>
+  God's **throne of judgment**
++ for our **sins**, we deserve **death**
+  + Christ died in our **place**
++ **Resurrection** demonstrates
+  + Christ's **victory** over death + sin
 
 ---
 <!-- .slide: data-background="white" -->
 # What is my **response** <br/> to the **resurrection**?
 
 >>>
-+ skeptic? impossible but a nice **fable**?
-+ not how **disciples**, including Thomas, saw it:
++ **disciples**, incl. Thomas, saw it:
+  + not as **fable** or moral story
   + **truth** they were willing to **die** for
-  + hope that gives us **life**, both now and for eternity
+  + hope that gives us **life**, <br/> both now and for eternity
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
@@ -424,10 +435,7 @@ and that by **believing** you may have **life** in his name.
 </div>
 
 >>>
-+ **journey** of faith:
-  + **natural** to have doubts
-  + but don't **remain** in disbelief
-+ **purpose** is for us to:
++ **purpose** of recording journey of faith:
   1. **believe** Jesus is who He says He is
   2. receive new **life** in Him
 
