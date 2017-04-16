@@ -12,7 +12,7 @@
 <!-- .element: style="color: rgba(0,0,0,0.2)" -->
 
 >>>
-+ 
++
 + journey of faith through the disciple called "Doubting Thomas"
 + actually, he becomes "believing Thomas"
 
@@ -248,7 +248,7 @@ Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection,
 >>>
 + Jesus' post-resurrection **greeting**, 3x (Jn20:19,21)
 + desires that we be at **peace** (w/others, w/God)
-+ but only way to achieve that is through **faith** in Him
++ but only way to achieve that is through **Himself**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
@@ -277,7 +277,7 @@ Caravaggio, "The Incredulity of Saint Thomas", 1601
 </div>
 
 >>>
-+ **Caravaggio**'s (卡拉瓦乔) famous painting
++ **Caravaggio** (卡拉瓦乔) Italian Baroque painter
   + portrays Christ almost **pulling** Thomas' finger in
   + with **patience** for his disbelief
 + **truth** does not fear **examination**
@@ -307,6 +307,11 @@ Stop **doubting** and **believe**
 # Is my **posture** toward Christ
 # **believing** or **unbelieving**?
 
+>>>
++ attitude, predisposition
++ yes there is much historical **evidence**
++ but am I **willing** to believe?
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 ## Faith Without Seeing
@@ -330,17 +335,15 @@ Thomas said to him, “**My Lord** and **my God**!”
 </div>
 
 >>>
-+ not just **amazed** at the miracle of resurrection
++ not just about the **miracle** of resurrection
 + Thomas addresses Jesus not as **teacher** / Rabbi
   + But as **Lord** and **God**
 + Jesus' **claims** about Himself are true
   + Son of God, Messiah
-+ therefore, our **response**: my Lord
++ &rArr; his **response**: my Lord
   + authority, **obedience**, trust with life
   + "**my**": personal, had an encounter
-+ **Thomas** really did live rest of life with Jesus as his Lord + God:
-  + According to **tradition** (not in Bible),
-  + After Christ ascended into heaven:
++ Later, after Christ ascended to heaven:
 
 ---
 ## St. Thomas in India <span class="zh">印度</span>
@@ -361,7 +364,6 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
     teachers, highest-ranking caste
   + founded 7 churches in **Kerala**, SW India
 + died in **Chennai**, SE India, speared through by a Brahmin
-+ There is a **reason** why apostle John recorded Thomas' **journey of faith**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
@@ -418,7 +420,7 @@ Hebrews 4:13
 
 >>>
 + skeptic? impossible but a nice **fable**?
-+ a **moral** story that we might be good people? 
++ a **moral** story that we might be good people?
 + not how **disciples**, including Thomas, saw it
 + **truth** willing to **die** for
 + hope that gives us **life**, both now and for eternity
