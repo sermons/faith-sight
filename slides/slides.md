@@ -107,13 +107,13 @@ and yet have **believed**.”
 
 >>>
 + Thomas' **journey of faith**:
-  1. **incomplete** faith
+  1. posture of **disbelief**
   2. personal **encounter** with risen Christ
-  3. **confession** of faith
+  3. **proclamation** of faith
 + Thomas: one of 12 **disciples**
   + followed, lived with, listened to Jesus for 3 yrs
 + **knew** who Jesus claimed to be
-  + waiting, hoping for **Messiah**
+  + waiting, hoping for **redemption**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" class="empty" -->
@@ -225,7 +225,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
 ### 3. "My Lord, my God" <span class="ref">(v28-29)</span>
 
 >>>
-1. Thomas' **incomplete** faith
+1. Thomas' **posture** of disbelief
 2. Personal **encounter** with the risen Christ
 
 ---
@@ -319,9 +319,9 @@ Stop **doubting** and **believe**
 ### 3. **"My Lord, my God"** <span class="ref">(v28-29)</span>
 
 >>>
-1. Thomas' **incomplete** faith
+1. Thomas' **posture** of disbelief
 2. Personal **encounter** with the risen Christ
-3. Thomas' **confession** of faith
+3. Thomas' **proclamation** of faith
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
