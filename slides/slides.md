@@ -12,7 +12,9 @@
 <!-- .element: style="color: rgba(0,0,0,0.2)" -->
 
 >>>
-+ journey of faith through the disciple called "Doubting Thomas"
++ moral **story** / fable?
+  + nice thing **Jesus** did, nothing to do with **me**?
++ **journey of faith** of the disciple called "Doubting Thomas"
 + actually, he becomes "believing Thomas"
 
 ---
@@ -29,6 +31,9 @@ So the **other** disciples told him, “We have **seen** the Lord!”
 <span class="ref">25</span>
 那些 **門徒** 就對他說： 我們已經 **看見** 主了。
 </span>
+
+>>>
+John 20:24-29
 
 ---
 <span class="ref">25</span>
@@ -110,10 +115,6 @@ and yet have **believed**.”
   1. posture of **disbelief**
   2. personal **encounter** with risen Christ
   3. **proclamation** of faith
-+ Thomas: one of 12 **disciples**
-  + followed, lived with, listened to Jesus for 3 yrs
-+ **knew** who Jesus claimed to be
-  + waiting, hoping for **redemption**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" class="empty" -->
@@ -125,7 +126,7 @@ Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
 
 >>>
 + when Jesus' friend **Lazarus** was ill,
-+ Thomas was **with** Jesus, across the Jordan, away from Jerusalem
++ Thomas was **with** Jesus, across the Jordan
 + After Lazarus **died**, Jesus said:
 
 ---
@@ -166,11 +167,9 @@ John 11:16
 
 >>>
 + tells us about Thomas' **character**:
-  + **zealous**, willing to die for Jesus
+  + **zealous**, willing to **die** for a noble cause
   + but assumed death is **the end**
-+ fixed in his mind that resurrection is **impossible**
-  + but that a **noble death** is worthwhile
-+ Let's return to today's passage:
++ That's why, back in today's passage:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
@@ -183,11 +182,11 @@ The **other** disciples told him, “We have **seen** the Lord!”
 </div>
 
 >>>
-+ others had first-hand **eyewitness**
-  + personal **encounter** w/risen Christ
-  + realisation of their **hope**, what they'd been waiting for
-+ Thomas' hope still **unseen**
-  + so his response is:
++ others had personal **encounter** w/risen Christ
+  + realisation of their **hope**
+  + what they'd been waiting for
++ but for Thomas, hope still **unseen**
+  + so when he says:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
@@ -206,6 +205,10 @@ The **other** disciples told him, “We have **seen** the Lord!”
   + he's **already** made up his mind
 + he "knows" resurrection is **impossible**
   + is not **expecting** to actually see the nail marks
++ We do the **same**:
+  + "my **life** is hopeless"
+  + "my **family** is hopeless"
+  + "call me a **sinner**, that's just the **way** I am"
 
 ---
 <!-- .slide: data-background="white" -->
@@ -215,7 +218,9 @@ The **other** disciples told him, “We have **seen** the Lord!”
 + Christ is the **realisation** of our hopes
   + **victory** over death + sin
   + we **say** we believe in Him
-+ But do we **truly** believe Christ is stronger than death?
++ But do we **truly** believe Christ is
+  + stronger than **death**?
+  + stronger than **our sin**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
@@ -247,7 +252,8 @@ Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection,
 >>>
 + Jesus' post-resurrection **greeting**, 3x (Jn20:19,21)
 + desires that we be at **peace** (w/others, w/God)
-+ but only way to achieve that is through **Himself**
+  + but only way is through **Himself**
++ Jesus then addresses Thomas **directly**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
@@ -262,10 +268,8 @@ Reach out your **hand** and put it into my **side**.
 </div>
 
 >>>
-+ Jesus **knows** Thomas is doubting
-  + addresses him **directly**
-  + personal **encounter**
-+ Thomas was **not expecting** to see Him!
++ **Knows** Thomas is doubting
+  + **invitation** to see for himself
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" class="empty" -->
@@ -296,7 +300,7 @@ Stop **doubting** and **believe**
 
 >>>
 + adjectives (形容詞), not **verbs**
-+ not **action** of doubting vs believing
++ not **action** (doubting vs believing)
 + but what kind of **person** we are:
   + the unbelieving person, or
   + the believing person
@@ -337,7 +341,6 @@ Thomas said to him, “**My Lord** and **my God**!”
 + Thomas addresses Jesus not as **teacher** / Rabbi
   + But as **Lord** and **God**
 + authority, **obedience**, trust with life
-  + "**my**": personal, had an encounter
 + Thomas **lived** this faith:
 
 ---
@@ -373,6 +376,7 @@ and yet have **believed**
 
 >>>
 + now Christ's **invitation** comes to **us**
++ not something we can **hide** from:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
@@ -389,6 +393,10 @@ the eyes of him to whom we must **give account**.
 <span class="ref">
 Hebrews 4:13
 </span>
+
+>>>
++ we will all stand before **throne of judgment**
++ no **forgiveness** apart from Christ
 
 ---
 <!-- .slide: data-background="white" -->
