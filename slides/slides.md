@@ -4,10 +4,15 @@
 # <span class="zh">沒有看見就相信</span>
 ## John <span class="zh">約翰福音</span> 20:24-29
 
+---
+<!-- .slide: data-background="white" -->
+# Is my **faith** in God **complete**?
+
 [ ### ](#/outline)
-<!-- .element: style="color: rgba(255,255,255,0.2)" -->
+<!-- .element: style="color: rgba(0,0,0,0.2)" -->
 
 >>>
++ 
 + journey of faith through the disciple called "Doubting Thomas"
 + actually, he becomes "believing Thomas"
 
@@ -98,7 +103,7 @@ and yet have **believed**.”
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" id="outline" -->
 ## Faith Without Seeing
 ### 1. "I **will not** believe" <span class="ref">(v24-25)</span>
-### 2. **Jesus** arrives <span class="ref">(v26-27)</span>
+### 2. "**Reach out** your hand" <span class="ref">(v26-27)</span>
 ### 3. "My **Lord**, my **God**" <span class="ref">(v28-29)</span>
 
 >>>
@@ -213,7 +218,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 ## Faith Without Seeing
 ### 1. "I will not believe" <span class="ref">(v24-25)</span>
-### 2. **Jesus arrives** <span class="ref">(v26-27)</span>
+### 2. **"Reach out your hand"** <span class="ref">(v26-27)</span>
 ### 3. "My Lord, my God" <span class="ref">(v28-29)</span>
 
 >>>
@@ -297,7 +302,7 @@ Stop **doubting** and **believe**
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 ## Faith Without Seeing
 ### 1. "I will not believe" <span class="ref">(v24-25)</span>
-### 2. Jesus arrives <span class="ref">(v26-27)</span>
+### 2. "Reach out your hand" <span class="ref">(v26-27)</span>
 ### 3. **"My Lord, my God"** <span class="ref">(v28-29)</span>
 
 >>>
