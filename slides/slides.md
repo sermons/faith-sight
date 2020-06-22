@@ -124,11 +124,11 @@ and yet have **believed**.”
 [John 20:24-29 (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> id="outline" class="outline" -->
 ## Faith Without Seeing
-### 1. "I **will not** believe" [(v24-25)](# "ref")
-### 2. "**Reach out** your hand" [(v26-27)](# "ref")
-### 3. "My **Lord**, my **God**" [(v28-29)](# "ref")
+1. "I **will not** believe" [(v24-25)](# "ref")
+2. "**Reach out** your hand" [(v26-27)](# "ref")
+3. "My **Lord**, my **God**" [(v28-29)](# "ref")
 
 >>>
 + Thomas' **journey of faith**:
@@ -137,7 +137,7 @@ and yet have **believed**.”
   3. **proclamation** of faith
 
 ---
-<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> class="empty bottom" -->
 
 [Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706](# "caption")
 
@@ -234,7 +234,7 @@ The **other** disciples told him, “We have **seen** the Lord!”
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I deemed <br/> **new life** in Christ <br/> as **impossible**?
+# Have I deemed **new life** in Christ as **impossible**?
 
 >>>
 + Christ is the **realisation** of our hopes
@@ -245,11 +245,11 @@ The **other** disciples told him, “We have **seen** the Lord!”
   + stronger than **our sin**?
 
 ---
-<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> class="outline" -->
 ## Faith Without Seeing
-### 1. "I will not believe" [(v24-25)](# "ref")
-### 2. **"Reach out your hand"** [(v26-27)](# "ref")
-### 3. "My Lord, my God" [(v28-29)](# "ref")
+1. "I will not believe" [(v24-25)](# "ref")
+2. **"Reach out your hand"** [(v26-27)](# "ref")
+3. "My Lord, my God" [(v28-29)](# "ref")
 
 >>>
 1. Thomas' **posture** of disbelief
@@ -296,7 +296,7 @@ Reach out your **hand** and put it into my **side**.
   + **invitation** to see for himself
 
 ---
-<!-- .slide: <%= bg("Caravaggio-The_Incredulity_of_Saint_Thomas.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("Caravaggio-The_Incredulity_of_Saint_Thomas.jpg") %> class="empty bottom" -->
 
 [Caravaggio, "The Incredulity of Saint Thomas", 1601](# "caption")
 
@@ -331,19 +331,18 @@ Stop **doubting** and **believe**
 
 ---
 <!-- .slide: data-background="white" -->
-# Is my **response** <br/> to Christ's invitation
-# one of **belief** <br/> or disbelief?
+# Do I **respond** to Christ's invitation with **belief** or disbelief?
 
 >>>
 + not just **historical** event of resurrection
 + Christ's personal **invitation** today
 
 ---
-<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> class="outline" -->
 ## Faith Without Seeing
-### 1. "I will not believe" [(v24-25)](# "ref")
-### 2. "Reach out your hand" [(v26-27)](# "ref")
-### 3. **"My Lord, my God"** [(v28-29)](# "ref")
+1. "I will not believe" [(v24-25)](# "ref")
+2. "Reach out your hand" [(v26-27)](# "ref")
+3. **"My Lord, my God"** [(v28-29)](# "ref")
 
 >>>
 1. Thomas' **posture** of disbelief
@@ -375,7 +374,7 @@ Thomas said to him, “**My Lord** and **my God**!”
 
 <div class="imgbox"><div>
 
-![Kerala, India](static/img/India_Kerala.svg)
+![Kerala, India](/img/India_Kerala.svg)
 
 </div><div>
 
@@ -383,7 +382,7 @@ Thomas said to him, “**My Lord** and **my God**!”
 
 </div></div>
 
-[Church at St Thomas Mount, Chennai, India. <br> &copy;2015 Ajayy99, CC-BY-SA 3.0](https://commons.wikimedia.org/wiki/File%3AChurch_stmt.jpg)
+[Church at St Thomas Mount, Chennai, India. <br> &copy;2015 Ajayy99, CC-BY-SA 3.0](https://commons.wikimedia.org/wiki/File%3AChurch_stmt.jpg "caption")
 
 >>>
 + Thomas later went to **India**
@@ -436,7 +435,7 @@ the eyes of him to whom we must **give account**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **stake my life** <br/> on the **resurrection**?
+# Will I **stake my life** on the **resurrection**?
 
 >>>
 + **disciples**, incl. Thomas, saw it:
