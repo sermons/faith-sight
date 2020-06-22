@@ -1,4 +1,4 @@
- <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
+ <!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 
 # Faith Without Seeing
 # <span class="zh">沒有看見就相信</span>
@@ -8,9 +8,6 @@
 <!-- .slide: data-background="white" -->
 # What is my **response** <br/> to the **resurrection**?
 
-[ ### ](#/outline)
-<!-- .element: style="color: rgba(0,0,0,0.2)" -->
-
 >>>
 + moral **story** / fable?
   + nice thing **Jesus** did, 
@@ -19,40 +16,45 @@
   + disciple called "Doubting Thomas"
   + &rArr; becomes "believing Thomas"
 
----
-<span class="ref">24</span>
+******
+[24](# "ref")
 Now **Thomas** (known as Didymus), one of the Twelve, <br/>
 was **not** with the disciples when Jesus came. <br/>
-<span class="ref">25</span>
+[25](# "ref")
 So the **other** disciples told him, “We have **seen** the Lord!”
 
-<span class="zh">
-<span class="ref">24</span>
+<div class="zh">
+
+[24](# "ref")
 那十二個門徒中， 有稱為低土馬的 **多馬** ； <br/>
 耶穌來的時候， 他 **沒有** 和他們同在。<br/>
-<span class="ref">25</span>
+[25](# "ref")
 那些 **門徒** 就對他說： 我們已經 **看見** 主了。
-</span>
 
->>>
-John 20:24-29
+</div>
 
----
-<span class="ref">25</span>
+[John 20:24-29 (p.1/6)](# "ref")
+
+******
+[25](# "ref")
 But he said to them, <br/>
 “Unless I see the **nail marks** in his hands <br/>
 and put my **finger** where the nails were, <br/>
 and put my **hand** into his side, I **will not** believe.”
 
 <div class="zh">
+
 多馬卻說： 我非看見他手上的 **釘痕** ， <br/>
 用 **指頭** 探入那釘痕， <br/>
 又用 **手** 探入他的肋旁， <br/>
 **我總不信** 。
+
 </div>
 
----
-<span class="ref">26</span>
+[John 20:24-29 (p.2/6)](# "ref")
+
+******
+[26](# "ref")
 A week later his disciples were in the house again, <br/>
 and **Thomas** was with them. <br/>
 Though the doors were **locked**, <br/>
@@ -60,57 +62,73 @@ Though the doors were **locked**, <br/>
 “**Peace** be with you!”
 
 <div class="zh">
-<span class="ref">26</span>
+
+[26](# "ref")
 過了八日， 門徒又在屋裡， <br/>
 **多馬** 也和他們同在， <br/>
 門都 **關** 了。 **耶穌** 來， <br/>
 站在當中說： 願你們 **平安** ！
+
 </div>
 
----
-<span class="ref">27</span>
+[John 20:24-29 (p.3/6)](# "ref")
+
+******
+[27](# "ref")
 Then he said to Thomas, <br/>
 “Put your **finger** here; see my **hands**. <br/>
 Reach out your **hand** and put it into my **side**. <br/>
 Stop **doubting** and **believe**.”
 
 <div class="zh">
-<span class="ref">27</span>
+
+[27](# "ref")
 就對多馬說： <br/>
 伸過你的 **指頭** 來， 看我的 **手** ； <br/>
 伸出你的 **手** 來， 探入我的 **肋旁** 。 <br/>
 不要 **疑惑**， 總要 **信**。
+
 </div>
 
----
-<span class="ref">28</span>
+[John 20:24-29 (p.4/6)](# "ref")
+
+******
+[28](# "ref")
 Thomas said to him, “**My Lord** and **my God**!”
 
 <div class="zh">
-<span class="ref">28</span>
+
+[28](# "ref")
 多馬說： **我的主**！ **我的神**！
+
 </div>
 
----
-<span class="ref">29</span>
+[John 20:24-29 (p.5/6)](# "ref")
+
+******
+[29](# "ref")
 Then Jesus told him, <br/>
 “Because you have **seen** me, you have **believed**; <br/>
 blessed are those who have **not seen** <br/>
 and yet have **believed**.”
 
 <div class="zh">
-<span class="ref">29</span>
+
+[29](# "ref")
 耶穌對他說： <br/>
 你因 **看見了** 我才 **信**； <br/>
 那 **沒有看見** 就 **信** 的有福了。
+
 </div>
 
+[John 20:24-29 (p.6/6)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" id="outline" -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> id="outline" -->
 ## Faith Without Seeing
-### 1. "I **will not** believe" <span class="ref">(v24-25)</span>
-### 2. "**Reach out** your hand" <span class="ref">(v26-27)</span>
-### 3. "My **Lord**, my **God**" <span class="ref">(v28-29)</span>
+### 1. "I **will not** believe" [(v24-25)](# "ref")
+### 2. "**Reach out** your hand" [(v26-27)](# "ref")
+### 3. "My **Lord**, my **God**" [(v28-29)](# "ref")
 
 >>>
 + Thomas' **journey of faith**:
@@ -119,12 +137,9 @@ and yet have **believed**.”
   3. **proclamation** of faith
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" class="empty" -->
+<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> class="empty" -->
 
-<div style="height:10rem"></div>
-<div class="caption">
-Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
-</div>
+[Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706](# "caption")
 
 >>>
 + when Jesus' friend **Lazarus** was ill,
@@ -133,22 +148,22 @@ Jean-Baptiste Jouvenet - The Raising of Lazarus, 1706
 + After Lazarus **died**, Jesus said:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
+<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 Lazarus is **dead**, and for your sake I am **glad** <br/>
 I was not there, so that you may **believe**. <br/>
 But let us **go to him**.
 
 <div class="zh">
+
 拉撒路**死了**。
 我沒有在那裡就**歡喜**， <br/>
 這是為你們的緣故，
 好叫你們**相信**。 <br/>
 如今我們可以**往他那裡去**罷。
+
 </div>
 
-<div class="ref">
-John 11:14-15
-</div>
+[John 11:14-15](# "ref")
 
 >>>
 + religious leaders in Jerusalem <br/>
@@ -156,18 +171,18 @@ John 11:14-15
   + **dangerous** to return
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Jouvenet-The_Raising_of_Lazarus.jpg" -->
+<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 Then **Thomas** said to the rest of the disciples, <br/>
 “Let us also go, that we may **die** with him.”
 
 <div class="zh">
+
 **多馬**， 就對那同作門徒的說： <br/>
 我們也去和他**同死**罷。
+
 </div>
 
-<div class="ref">
-John 11:16
-</div>
+[John 11:16](# "ref")
 
 >>>
 + tells us about Thomas' **character**:
@@ -176,14 +191,16 @@ John 11:16
 + That's why, back in today's passage:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
-<span class="ref">25</span>
+<!-- .slide: <%= bg("wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg") %> -->
 The **other** disciples told him, “We have **seen** the Lord!”
 
 <div class="zh">
-<span class="ref">25</span>
+
 那些 **門徒** 就對他說： 我們已經 **看見** 主了。
+
 </div>
+
+[John 20:25](# "ref")
 
 >>>
 + others had personal **encounter** w/risen Christ
@@ -193,16 +210,18 @@ The **other** disciples told him, “We have **seen** the Lord!”
   + so when he says:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
-<span class="ref">25</span>
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 “Unless I see the **nail marks** in his hands, <br/>
 ... I **will not** believe.”
 
 <div class="zh">
-<span class="ref">25</span>
+
 我非看見他手上的 **釘痕** ， <br/>
 ... **我總不信** 。
+
 </div>
+
+[John 20:25](# "ref")
 
 >>>
 + Thomas doesn't really want **proof**
@@ -226,31 +245,30 @@ The **other** disciples told him, “We have **seen** the Lord!”
   + stronger than **our sin**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 ## Faith Without Seeing
-### 1. "I will not believe" <span class="ref">(v24-25)</span>
-### 2. **"Reach out your hand"** <span class="ref">(v26-27)</span>
-### 3. "My Lord, my God" <span class="ref">(v28-29)</span>
+### 1. "I will not believe" [(v24-25)](# "ref")
+### 2. **"Reach out your hand"** [(v26-27)](# "ref")
+### 3. "My Lord, my God" [(v28-29)](# "ref")
 
 >>>
 1. Thomas' **posture** of disbelief
 2. Personal **encounter** w/risen Christ
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Ivanov-Christ_Appearance_to_Mary.jpg" -->
-<span class="ref">26</span>
+<!-- .slide: <%= bg("Ivanov-Christ_Appearance_to_Mary.jpg") %> -->
 **Jesus** came and stood among them and said, <br/>
 “**Peace** be with you!”
 
 <div class="zh">
-<span class="ref">26</span>
+
 **耶穌** 來， 站在當中說：
 願你們**平安**！
+
 </div>
 
-<div class="caption">
-Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection, 1835
-</div>
+[John 20:26](# "ref")
+[Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection, 1835](# "caption")
 
 >>>
 + post-resurrection **greeting** (3x Jn20)
@@ -260,28 +278,27 @@ Alexander Ivanov - Christ's Appearance to Mary Magdalene after the Resurrection,
 + Then addresses Thomas **directly**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
-<span class="ref">27</span>
+<!-- .slide: <%= bg("Caravaggio-The_Incredulity_of_Saint_Thomas.jpg") %> -->
 Put your **finger** here; see my **hands**. <br/>
 Reach out your **hand** and put it into my **side**.
 
 <div class="zh">
-<span class="ref">27</span>
+
 伸過你的 **指頭** 來， 看我的 **手** ； <br/>
 伸出你的 **手** 來， 探入我的 **肋旁** 。 <br/>
+
 </div>
+
+[John 20:27](# "ref")
 
 >>>
 + **Knows** Thomas is doubting
   + **invitation** to see for himself
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" class="empty" -->
+<!-- .slide: <%= bg("Caravaggio-The_Incredulity_of_Saint_Thomas.jpg") %> class="empty" -->
 
-<div style="height:10rem"></div>
-<div class="caption">
-Caravaggio, "The Incredulity of Saint Thomas", 1601
-</div>
+[Caravaggio, "The Incredulity of Saint Thomas", 1601](# "caption")
 
 >>>
 + **Caravaggio** (卡拉瓦乔)
@@ -294,14 +311,16 @@ Caravaggio, "The Incredulity of Saint Thomas", 1601
   + but condition of the **heart**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-The_Incredulity_of_Saint_Thomas.jpg" -->
-<span class="ref">27</span>
+<!-- .slide: <%= bg("Caravaggio-The_Incredulity_of_Saint_Thomas.jpg") %> -->
 Stop **doubting** and **believe**
 
 <div class="zh">
-<span class="ref">27</span>
+
 不要 **疑惑**， 總要 **信**
+
 </div>
+
+[John 20:27](# "ref")
 
 >>>
 + adjectives (形容詞), not **verbs**
@@ -320,11 +339,11 @@ Stop **doubting** and **believe**
 + Christ's personal **invitation** today
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 ## Faith Without Seeing
-### 1. "I will not believe" <span class="ref">(v24-25)</span>
-### 2. "Reach out your hand" <span class="ref">(v26-27)</span>
-### 3. **"My Lord, my God"** <span class="ref">(v28-29)</span>
+### 1. "I will not believe" [(v24-25)](# "ref")
+### 2. "Reach out your hand" [(v26-27)](# "ref")
+### 3. **"My Lord, my God"** [(v28-29)](# "ref")
 
 >>>
 1. Thomas' **posture** of disbelief
@@ -332,14 +351,16 @@ Stop **doubting** and **believe**
 3. Thomas' **proclamation** of faith
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
-<span class="ref">28</span>
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Thomas said to him, “**My Lord** and **my God**!”
 
 <div class="zh">
-<span class="ref">28</span>
+
 多馬說： **我的主**！ **我的神**！
+
 </div>
+
+[John 20:28](# "ref")
 
 >>>
 + not just response to a **miracle**
@@ -353,14 +374,16 @@ Thomas said to him, “**My Lord** and **my God**!”
 ## St. Thomas in India <span class="zh">印度</span>
 
 <div class="imgbox"><div>
+
 ![Kerala, India](static/img/India_Kerala.svg)
+
 </div><div>
+
 ![Church of St Thomas Mount](https://sermons.seanho.com/img/bg/Mt_Thomas_Church_Chennai.jpg)
-<div class="caption">
-Church at St Thomas Mount, Chennai, India<br/>
-Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt.jpg), CC-BY-SA 3.0
-</div>
-</div>
+
+</div></div>
+
+[Church at St Thomas Mount, Chennai, India. <br> &copy;2015 Ajayy99, CC-BY-SA 3.0](https://commons.wikimedia.org/wiki/File%3AChurch_stmt.jpg)
 
 >>>
 + Thomas later went to **India**
@@ -371,35 +394,37 @@ Photo [&copy;2015 Ajayy99](https://commons.wikimedia.org/wiki/File%3AChurch_stmt
   + speared through by a Brahmin
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
-<span class="ref">29</span>
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
 Blessed are those who have **not seen** <br/>
 and yet have **believed**
 
 <div class="zh">
-<span class="ref">29</span>
+
 那 **沒有看見** 就 **信** 的有福了
+
 </div>
+
+[John 20:29](# "ref")
 
 >>>
 + now Christ's **invitation** comes to **us**
 + not something we can **hide** from:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Nothing in all creation is **hidden** from God’s sight. <br/>
 Everything is **uncovered** and **laid bare** before  <br/>
 the eyes of him to whom we must **give account**.
 
 <div class="zh">
+
 並且被造的沒有一樣在他面前不顯然的； <br/>
 原來萬物在那與我們有關係的主眼前， <br/>
 都是赤露敞開的。
+
 </div>
 
-<span class="ref">
-Hebrews 4:13
-</span>
+[Hebrews 4:13](# "ref")
 
 >>>
 + we will all stand before <br/>
@@ -420,19 +445,21 @@ Hebrews 4:13
   + hope that gives us **life**, <br/> both now and for eternity
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
-<span class="ref">31</span>
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 These are **written** that you may believe <br/>
 that Jesus is the **Messiah**, the **Son of God**, <br/>
 and that by **believing** you may have **life** in his name.
 
 <div class="zh">
-<span class="ref">31</span>
+
 但 **記這些事** 要叫你們信 <br/>
 耶穌是 **基督**， 是 **神的兒子**， <br/>
 並且叫你們 **信了他**， <br/>
 就可以因他的名得 **生命**。
+
 </div>
+
+[John 20:31](# "ref")
 
 >>>
 + **purpose** of recording journey of faith:
@@ -440,4 +467,4 @@ and that by **believing** you may have **life** in his name.
   2. receive new **life** in Him
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> class="empty" -->
